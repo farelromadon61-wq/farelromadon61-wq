@@ -27,7 +27,7 @@ Linux, networking, and web development.
 
 > Currently learning and building small projects.
 >## Project
--[Retro Snake Game](https://farelromadon61-wq.github.io/snake-game/)
+- [Retro Snake Game](https://farelromadon61-wq.github.io/snake-game/)
 > 🚧 More projects coming soon...
 
 ## 📊 GitHub Stats
