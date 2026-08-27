@@ -26,7 +26,8 @@ Linux, networking, and web development.
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 > Currently learning and building small projects.
->
+>## Project
+-[Retro Snake Game](https://farelromadon61-wq.github.io/snake-game/)
 > 🚧 More projects coming soon...
 
 ## 📊 GitHub Stats
